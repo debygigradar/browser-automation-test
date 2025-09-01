@@ -81,7 +81,7 @@ NPM scripts:
 - https://2captcha.com/demo/cloudflare-turnstile-challenge  
 
 ### Requirements
-- **One run:** covers all 2 sites × 5 attempts each (20 total).  
+- **One run:** covers all 2 sites × 10 attempts each (20 total).  
 - **Sequential:** no parallel solves.  
 - **Timeouts:** e.g., 90s per attempt; record failure reason.  
 - **Success detection:** confirm by page state (e.g., success text).  

@@ -4,7 +4,7 @@
 Welcome!  
 This test is part of the interview process for the **Browser Automation Engineer** role at GigRadar.  
 
-You will complete **two coding tasks** (45 minutes total) after a short **15-minute Q&A session**.  
+You will complete **two coding tasks** (45 minutes total).  
 The goal is to evaluate your skills in **JavaScript, TypeScript, Puppeteer, selectors, and handling anti-bot challenges**.
 
 ---

@@ -71,7 +71,7 @@ NPM scripts:
 
 ## 📝 Task B - Turnstile Demo Solver
 
-**Goal:** In a single run, attempt to solve the Cloudflare Turnstile challenge **10 times in a row**for each demo URL.  
+**Goal:** In a single run, attempt to solve the Cloudflare Turnstile challenge **10 times in a row** for each demo URL.  
 
 ### 2captcha API Key
 - a15794fb3ff5eaa7eef90604b543cf1a
